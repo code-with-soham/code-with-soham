@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-soham&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-soham" /> </p>
 
-<p align="left"> <a href="https://twitter.com/soham" target="blank"><img src="https://img.shields.io/twitter/follow/soham?logo=twitter&style=for-the-badge" alt="soham" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sohamkundu84" target="blank"><img src="https://img.shields.io/twitter/follow/sohamkundu84?logo=twitter&style=for-the-badge" alt="sohamkundu84" /></a> </p>
 
 - 🌱 I’m currently learning **React , Javascript**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/soham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soham" height="30" width="40" /></a>
+<a href="https://twitter.com/sohamkundu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohamkundu84" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soham-kundu-b5a9a0250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soham-kundu-b5a9a0250/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/soham.kundu.737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soham.kundu.737" height="30" width="40" /></a>
 </p>

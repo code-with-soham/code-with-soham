@@ -1,17 +1,14 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hello World!, I'm Soham👋, a Indian Web Developer : </h1>
-<h3 align="center">🛜 currently working on my own webpage 
-                  👨🏼‍🎓 studying computer science at Brainware University
-                  👨🏼‍💻 Currently, I am upgrading my skills.
-  
-  - 🌱 I’m currently learning **React , Javascript**
+<h4 align="center"> 
+                  
+  - 🛜 currently working on my own webpage
 
-- 💬 Ask me about **MERN , React**
+  - 👨🏼‍🎓 studying computer science at Brainware University
 
-- 📫 How to reach me **sohamkundu84@gmail.com**
-
-- ⚡ Fun fact **I an funny**
-</h3>
+  - 👨🏼‍💻 Currently, I am upgrading my skills.
+    
+</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-soham&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-soham" /> </p>
